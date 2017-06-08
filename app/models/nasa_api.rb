@@ -1,0 +1,2 @@
+class NasaApi < ApplicationRecord
+end
